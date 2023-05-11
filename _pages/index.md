@@ -1,5 +1,7 @@
 ---
 layout: single
+header:
+  overlay_color: "#333"
 permalink: /
 ---
 

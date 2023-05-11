@@ -1,10 +1,11 @@
 ---
+permalink: /
 layout: single
 masthead: false
-title: Single-Page Website using Minimal Mistakes
+copyrightnotice: false
+title: Single-Page Website
 header:
   overlay_color: "#333"
-permalink: /
 ---
 
 # Per nutrit frugilegas sibi iuvatis abit Sabina

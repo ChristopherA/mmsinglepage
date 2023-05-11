@@ -2,7 +2,7 @@
 permalink: /
 layout: single
 masthead: false
-copyrightnotice: false
+copyright-notice: false
 title: Single-Page Website
 header:
   overlay_color: "#333"

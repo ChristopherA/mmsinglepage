@@ -1,0 +1,7 @@
+title: Single Page Website
+remote_theme: mmistakes/minimal-mistakes
+description: >- 
+  Template for a single-page website using GitHub-hosted static
+  Jekyll pages and the Minimal-Mistakes remote-theme.
+include:
+  - _pages

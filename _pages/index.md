@@ -1,6 +1,7 @@
 ---
 layout: single
 masthead: false
+title: Single-Page Website using Minimal Mistakes
 header:
   overlay_color: "#333"
 permalink: /

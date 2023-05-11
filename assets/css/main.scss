@@ -3,10 +3,5 @@
  @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
  @import "minimal-mistakes"; // main partials
 
-.masthead {
-    display:none;
-    }
-
-.site-nave {
-    display:none;
-    }
+ // place custom ccs overrides here
+ 

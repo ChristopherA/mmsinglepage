@@ -1,5 +1,6 @@
 ---
 layout: single
+masthead: false
 header:
   overlay_color: "#333"
 permalink: /

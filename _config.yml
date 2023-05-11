@@ -5,3 +5,5 @@ description: >-
   Jekyll pages and the Minimal-Mistakes remote-theme.
 include:
   - _pages
+plugins:
+  - jekyll-include-cache

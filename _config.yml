@@ -11,3 +11,14 @@ plugins:
   - jekyll-include-cache
 atom_feed:
   hide: true
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      masthead: false
+      copyright-notice: false
+      header:
+        overlay_color: "#333"

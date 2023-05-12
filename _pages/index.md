@@ -1,11 +1,6 @@
 ---
 permalink: /
-layout: single
-masthead: false
-copyright-notice: false
 title: Single-Page Website
-header:
-  overlay_color: "#333"
 ---
 
 # Per nutrit frugilegas sibi iuvatis abit Sabina
